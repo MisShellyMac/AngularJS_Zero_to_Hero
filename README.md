@@ -1,3 +1,3 @@
 # AngularJS_Zero_to_Hero
 
-#### I'm working through the online tutorial for an Angular Project from Udemy.
+#### This Repo is where I am working through the online tutorial for an Angular Project from Udemy.
